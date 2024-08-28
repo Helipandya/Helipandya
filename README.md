@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full-stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1024/1*hZJV9DjRZW9DJ4XfRwQaIA.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helipandya&label=Profile%20views&color=0e75b6&style=flat" alt="helipandya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Helipandya&label=Profile%20views&color=0e75b6&style=flat" alt="Helipandya" /> </p>
 
 - 🔭 I’m currently working on [hotel management system](https://hoteladmin.udpath.in/)
 
