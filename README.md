@@ -4,7 +4,7 @@
       src="https://i.ibb.co/h1Vmqqbz/Yellow-Minimalist-Digital-Marketing-Linked-In-Banner.png" 
       alt="Heli Pandya Banner"
       width="1000" 
-      height="250" />
+      height="230" />
   </a>
 </p>
 
