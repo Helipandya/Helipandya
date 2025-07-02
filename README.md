@@ -3,7 +3,7 @@
     <img 
       src="https://i.ibb.co/h1Vmqqbz/Yellow-Minimalist-Digital-Marketing-Linked-In-Banner.png" 
       alt="Heli Pandya Banner"
-      width="1000" 
+      width="100%" 
       height="230" />
   </a>
 </p>
